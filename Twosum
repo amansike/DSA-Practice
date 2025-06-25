@@ -1,18 +1,1 @@
-package twosum;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class Implementations{
-    public static void main(String args[]){
-        
-        List <String> namelist=new ArrayList<String>();
-        
-            namelist.add("aman");
-            namelist.add("ankur");
-            namelist.add("kalwa");
-            namelist.add("Vedansh");  
-        System.out.println(namelist);
-         
-    }
-}
