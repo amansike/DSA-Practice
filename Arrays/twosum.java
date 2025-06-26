@@ -1,6 +1,9 @@
 package Arrays;
 public class twosum{
     public static void main(String[] args) {
-        System.out.println("hello aman");
+        int a =5;
+        int b=6;
+        int result=a+b;
+        System.out.println(result);
     }
 }
